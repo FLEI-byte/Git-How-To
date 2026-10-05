@@ -9,3 +9,4 @@
 ![Крок 1](screenshots/01_git1.png)
 
 Крок 2. Створення проєкту
+![Крок 1](screenshots/01_git1.png)
