@@ -285,7 +285,7 @@
 
 ![Крок 24-1](screenshots/23-1_git1.png)
 
-Виконано `git add hello.html`, `git commit -m "Added meta title"`. Перегляд гілок `git log --all --graph`. Після коміту «Added README» гілка `main` була об'єднана з гілкою `style`, але зараз в `main` є додатковий коміт, що не був злитий із `style``.
+Виконано `git add hello.html`, `git commit -m "Added meta title"`. Перегляд гілок `git log --all --graph`. Після коміту «Added README» гілка `main` була об'єднана з гілкою `style`, але зараз в `main` є додатковий коміт, що не був злитий із `style`.
 
 ![Крок 24-2](screenshots/23-2_git1.png)
 
@@ -325,11 +325,11 @@
 
 ![Крок 28-1](screenshots/26-1_git1.png)
 
-Файл index.html
+Файл `index.html`
 
 ![Крок 28-2](screenshots/26-2_git1.png)
 
-Розв'язання конфлікту. Редагування файлу hello.html
+Розв'язання конфлікту. Редагування файлу `hello.html`
 
 ![Крок 28-3](screenshots/26-3_git1.png)
 
