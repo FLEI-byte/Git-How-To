@@ -103,3 +103,14 @@
 ![Крок 17-1](screenshots/16-3_git1.png)
 Змінено попередній коміт, включивши в нього адресу електронної пошти. Перегляд історії.
 ![Крок 17-2](screenshots/16-2_git1.png)
+
+18. Створення гілки
+Створено гілку під назвою style. Виконано git add hello.html та git commit -m "Included stylesheet into hello.html"
+![Крок 18-1](screenshots/17-1_git1.png)
+Додано файл стилів style.css.
+![Крок 18-2](screenshots/17-3_git1.png)
+Змінено hello.html для того, щоб використовувати style.css
+![Крок 18-3](screenshots/17-2_git1.png)
+
+19. Перемикання гілок
+
